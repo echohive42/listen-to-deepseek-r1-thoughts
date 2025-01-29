@@ -4,7 +4,6 @@ A unique tool that combines Groq's LLM capabilities with OpenAI's Text-to-Speech
 
 ## Features
 
-- 🎭 **Styled Thinking**: Customizable thinking styles (e.g., jovial, analytical, stuttering)
 - 🌀 **Creative Tangents**: Explores unexpected connections and parallel concepts
 - 🗣️ **Real-time Audio Narration**: Converts thoughts to speech as they're generated
 - 📝 **Streaming Text Output**: Visual representation of thoughts in real-time
