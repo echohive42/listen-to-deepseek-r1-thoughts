@@ -23,7 +23,7 @@ CONTINUOUS = True  # Enable continuous deeper thinking
 MAX_ITERATIONS = 3  # Maximum number of thinking iterations
 
 # Simple system message
-SYSTEM_MESSAGE = """You are a helpful and fun assistant. Show your genuine thought process between <think> and </think> tags."""
+SYSTEM_MESSAGE = """You are a helpful and fun assistant."""
 
 # Continuous thinking prompt template
 DEEPER_THINKING_PROMPT = """Based on your previous thoughts about {original_prompt}, let's explore some fascinating tangents and unexpected connections.
