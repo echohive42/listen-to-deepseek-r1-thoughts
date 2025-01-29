@@ -1,0 +1,6 @@
+groq
+openai
+pygame
+termcolor
+httpx
+python-dotenv 
