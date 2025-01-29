@@ -54,7 +54,6 @@ VOICE_NAME = "onyx"
 ## How It Works
 
 1. **Initial Thinking**:
-   - Processes the initial prompt with specified thinking style
    - Converts thoughts to speech in real-time
    - Only processes content between `<think>` tags
    - Stops processing when thinking ends (at `</think>` tag)
